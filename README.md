@@ -62,5 +62,3 @@ End-to-end web scraping pipeline extracting and processing store data across 13 
 | 🔧 **Tools** | Git · Linux · REST APIs · JWT · Google OAuth2 |
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjaeyun01&show_icons=true&theme=default)
