@@ -3,7 +3,7 @@
 # Hi, I'm Jay 👋
 
 Computer Science & Data Science @ UW-Madison (Class of 2027)  
-Full-Stack Developer · Data Engineer
+Software Developer · Data Engineer
 
 📧 jlee2387@wisc.edu · 💼 [LinkedIn](https://linkedin.com/in/jaeyoonlee0101) · 🌐 [Portfolio](https://github.com/jjaeyun01)
 
@@ -88,13 +88,5 @@ End-to-end web scraping pipeline extracting and processing store data across 13 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjaeyun01&show_icons=true&theme=default&hide_border=true)
 
 </div>
