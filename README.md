@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jay 👋
 
-<!--
-**jjaeyun01/jjaeyun01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS & Data Science @ UW-Madison (Class of 2027)  
+💻 Full-Stack Developer | Data Engineer  
+🌱 Currently exploring backend systems & cloud infrastructure
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Languages:** Python · Java · JavaScript · TypeScript · C · SQL  
+**Frontend:** React · Next.js  
+**Backend:** FastAPI · Node.js · Django ORM  
+**DB/Cloud:** PostgreSQL · MySQL · MongoDB · Redis · AWS  
+**Tools:** Git · Linux · REST APIs · JWT · Google OAuth2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🛍 [Novera](링크) — Carbon-aware shopping platform (React, FastAPI, Python)
+- 🌐 [Portfolio](링크) — Interactive personal website (React, Node.js)
+
+📫 jlee2387@wisc.edu | [LinkedIn](https://linkedin.com/in/jaeyoonlee0101)
